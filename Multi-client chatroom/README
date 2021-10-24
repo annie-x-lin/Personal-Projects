@@ -1,0 +1,13 @@
+
+Chatbox file contains the server. Chatbox client contains the client files. When running the client files, make sure to replace host with the internal IP address of the server. The code is designed for laptops on the same network only given the limitations of the socket package. 
+
+Note that for the client files, I have also included a username/password input. The current accepted usednames and passwords are:
+User: Annie
+Password: password
+
+and User: Dummy
+Password: password1
+
+You can feel free to add usernames and passwords to the server file as necessary under the dictionary passwords. I am currently trying to write a program that would dynamically add usernames and passwords. 
+
+Credits to https://www.geeksforgeeks.org/gui-chat-application-using-tkinter-in-python/ 
