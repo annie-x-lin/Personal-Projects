@@ -1,5 +1,5 @@
 
-Chatbox file contains the server. Chatbox client contains the client files. When running the client files, make sure to replace host with the internal IP address of the server. The code is designed for laptops on the same network only given the limitations of the socket package. 
+Chatbox file contains the server. Chatbox client contains the client files. When running the client files, make sure to replace host with the internal IP address of the server. The code is designed for different laptops on the same Wi-Fi network only given the limitations of the socket package. 
 
 Note that for the client files, I have also included a username/password input. The current accepted usednames and passwords are:
 User: Annie
